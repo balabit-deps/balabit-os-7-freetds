@@ -620,7 +620,7 @@ print_results(DBPROCESS *dbproc)
 								break;
 							}
 						}
-						fprintf(stdout, metadata[c].format_string, ""); /* col/row separator */
+						fprintf(stdout, "%s", metadata[c].format_string, ""); /* col/row separator */
 						continue;
 					}
 					switch (data[c].status) { /* handle nulls */

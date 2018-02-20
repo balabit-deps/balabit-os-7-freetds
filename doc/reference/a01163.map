@@ -2,7 +2,7 @@
 <area shape="rect" id="node3" href="$a01193.html" title="Information for a server connection. " alt="" coords="556,183,647,209"/>
 <area shape="rect" id="node8" href="$a01189.html" title="tds_connection" alt="" coords="1195,135,1313,161"/>
 <area shape="rect" id="node2" href="$a01141.html" title="Hold information for any results. " alt="" coords="789,216,904,243"/>
-<area shape="rect" id="node7" href="$a01157.html" title="Holds informations about a cursor. " alt="" coords="1008,192,1096,219"/>
+<area shape="rect" id="node7" href="$a01157.html" title="Holds information about a cursor. " alt="" coords="1008,192,1096,219"/>
 <area shape="rect" id="node4" href="$a01101.html" title="tds_login" alt="" coords="285,249,364,276"/>
 <area shape="rect" id="node5" href="$a01073.html" title="Structure to hold a string. " alt="" coords="5,389,79,416"/>
 <area shape="rect" id="node10" href="$a01133.html" title="Metadata about columns in regular and compute rows. " alt="" coords="555,397,648,424"/>

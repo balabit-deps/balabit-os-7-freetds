@@ -1,7 +1,7 @@
 <map id="tds_result_info" name="tds_result_info">
 <area shape="rect" id="node2" href="$a01193.html" title="Information for a server connection. " alt="" coords="1275,323,1365,349"/>
 <area shape="rect" id="node7" href="$a01165.html" title="Holds information for a dynamic (also called prepared) query. " alt="" coords="766,351,867,377"/>
-<area shape="rect" id="node8" href="$a01157.html" title="Holds informations about a cursor. " alt="" coords="773,659,861,685"/>
+<area shape="rect" id="node8" href="$a01157.html" title="Holds information about a cursor. " alt="" coords="773,659,861,685"/>
 <area shape="rect" id="node3" href="$a01101.html" title="tds_login" alt="" coords="1047,233,1125,260"/>
 <area shape="rect" id="node4" href="$a01097.html" title="tds_capabilities" alt="" coords="757,261,876,288"/>
 <area shape="rect" id="node10" href="$a01189.html" title="tds_connection" alt="" coords="1027,476,1145,503"/>

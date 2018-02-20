@@ -298,7 +298,7 @@
 </g>
 <!-- Node17 -->
 <g id="node9" class="node"><title>Node17</title>
-<g id="a_node9"><a xlink:href="a01157.html" target="_top" xlink:title="Holds informations about a cursor. ">
+<g id="a_node9"><a xlink:href="a01157.html" target="_top" xlink:title="Holds information about a cursor. ">
 <polygon fill="white" stroke="black" points="819.5,-437.158 819.5,-456.158 885.5,-456.158 885.5,-437.158 819.5,-437.158"/>
 <text text-anchor="middle" x="852.5" y="-444.158" font-family="Helvetica,sans-Serif" font-size="10.00">tds_cursor</text>
 </a>

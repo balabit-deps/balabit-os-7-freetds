@@ -629,7 +629,7 @@ typedef struct tds_blob
 } TDSBLOB;
 
 /**
- * Store variant informations
+ * Store variant information
  */
 typedef struct tds_variant
 {
@@ -966,7 +966,7 @@ typedef enum tds_cursor_fetch
 } TDS_CURSOR_FETCH;
 
 /**
- * Holds informations about a cursor
+ * Holds information about a cursor
  */
 typedef struct tds_cursor
 {

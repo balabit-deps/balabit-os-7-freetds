@@ -11,7 +11,7 @@
 <area shape="rect" id="node6" href="$a01181.html" title="tds_packet" alt="" coords="425,272,516,299"/>
 <area shape="rect" id="node7" href="$a01165.html" title="Holds information for a dynamic (also called prepared) query. " alt="" coords="221,617,323,644"/>
 <area shape="rect" id="node10" href="$a01189.html" title="tds_connection" alt="" coords="325,737,443,764"/>
-<area shape="rect" id="node9" href="$a01157.html" title="Holds informations about a cursor. " alt="" coords="53,617,141,644"/>
+<area shape="rect" id="node9" href="$a01157.html" title="Holds information about a cursor. " alt="" coords="53,617,141,644"/>
 <area shape="rect" id="node11" href="$a01173.html" title="tds_context" alt="" coords="707,512,802,539"/>
 <area shape="rect" id="node19" href="$a00977.html" title="_henv" alt="" coords="807,617,868,644"/>
 <area shape="rect" id="node13" href="$a00965.html" title="_hdesc" alt="" coords="1175,617,1243,644"/>
