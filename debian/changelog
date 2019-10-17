@@ -1,3 +1,13 @@
+freetds (1.00.82-2ubuntu0.1) bionic-security; urgency=medium
+
+  * SECURITY UPDATE: Heap overflow if UDT type is used with protocol 5.0
+    (LP: #1835896)
+    - src/tds/data.c: make sure UDT has varint set to 8.
+    - 0df4eb82a0e3ff844e373d7c9f9c6c813925e2ac
+    - CVE-2019-13508
+
+ -- Marc Deslauriers <marc.deslauriers@ubuntu.com>  Thu, 17 Oct 2019 13:10:03 -0400
+
 freetds (1.00.82-2) unstable; urgency=medium
 
   * Fix arch-any builds.  Closes: #890888.

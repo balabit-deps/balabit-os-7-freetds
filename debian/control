@@ -1,7 +1,8 @@
 Source: freetds
 Section: libs
 Priority: optional
-Maintainer: Steve Langasek <vorlon@debian.org>
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Steve Langasek <vorlon@debian.org>
 Uploaders: Adam Conrad <adconrad@0c3.net>
 Standards-Version: 4.1.3
 Homepage: http://www.freetds.org/
